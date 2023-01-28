@@ -1,0 +1,12 @@
+/run/media/evirac/S/programming/flutter/lets_do_this/flutter_application_1/build/linux/x64/debug/bundle/flutter_application_1
+/run/media/evirac/S/programming/flutter/lets_do_this/flutter_application_1/build/linux/x64/debug/bundle/data/icudtl.dat
+/run/media/evirac/S/programming/flutter/lets_do_this/flutter_application_1/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/run/media/evirac/S/programming/flutter/lets_do_this/flutter_application_1/build/linux/x64/debug/bundle/lib/libdynamic_color_plugin.so
+/run/media/evirac/S/programming/flutter/lets_do_this/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/run/media/evirac/S/programming/flutter/lets_do_this/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/run/media/evirac/S/programming/flutter/lets_do_this/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/run/media/evirac/S/programming/flutter/lets_do_this/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/run/media/evirac/S/programming/flutter/lets_do_this/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/run/media/evirac/S/programming/flutter/lets_do_this/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/run/media/evirac/S/programming/flutter/lets_do_this/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/run/media/evirac/S/programming/flutter/lets_do_this/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

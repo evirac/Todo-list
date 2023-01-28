@@ -1,0 +1,4 @@
+#Fri Jan 27 11:29:53 IST 2023
+base.0=/run/media/evirac/S/programming/flutter/lets_do_this/flutter_application_1/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
